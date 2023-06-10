@@ -14,7 +14,11 @@ php artisan serve
 
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-Upload-Image/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-User-Auth/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-User-Auth/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-User-Auth/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-User-Auth/main/Screenshots/Output-04.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-User-Auth/main/Screenshots/Output-05.png)
 
 
 ## 🔗 www.codehafeez.com
